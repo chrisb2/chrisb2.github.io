@@ -26,7 +26,24 @@ roles:
    start: 2011
    end: Ongoing
    employer: Orion Health
-   description: Orion Health is a global company that develops software to drive efficiency in healthcare and improve healthcare outcomes.
+   description: Orion Health is a global company that develops software to drive efficiency in healthcare and improve healthcare 
+   outcomes. I am leading a team of five using scrum to develop health software to improve the delivery of care to patients.
+ - title: Software Architect
+   start: 2008
+   end: 2011
+   employer: Arc Innovations
+   description: While continuing to lead a scrum team, my role expanded as I worked with the Solution Architects to plan an 
+   update of the software services that the company provided, to enable value to be realized from the accumulated meter data.
+ - title: Solution Architect
+   start: 1998
+   end: 2007
+   employer: Hewlett Packard
+   description: In this role I was responsible for leading the estimation, design and implementation of custom software for HP's clients.
+ - title: Project Lead, R&D
+   start: 1982
+   end: 1997
+   employer: Tyco International (was Raychem Ltd)
+   description: Led a small team of R&D scientists working on the synthesis of polymers.
    
 #Education is required
 education:
